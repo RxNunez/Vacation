@@ -1,4 +1,10 @@
 img {
-  width: 500px;
+  width: 275px;
   height: 300px;
+  display: block;
+}
+
+.jumbotron {
+  font-weight: bold;
+  color: blue;
 }
